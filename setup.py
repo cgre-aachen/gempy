@@ -25,6 +25,7 @@ setup(
         'pyvistaqt==0.10.0',
         'pyqt5',
         'iPython',
+        'rasterio',
         'xarray'
     ],
     url='https://github.com/cgre-aachen/gempy',
